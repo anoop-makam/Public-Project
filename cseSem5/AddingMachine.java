@@ -2,7 +2,7 @@
  * @author : Anoop Makam
  */
 
-//AP
+
 
 package cse360assignment02;
 /* 
@@ -29,12 +29,14 @@ public class AddingMachine {
    * @param value to be added
    */
   public void add (int value) {
+	  total += value;
   }
   /*
    * void function to subtract 
    * @param value to be subtracted
    */
   public void subtract (int value) {
+	  
   }
   /*
    * @return concatination of String
