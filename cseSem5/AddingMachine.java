@@ -13,7 +13,7 @@ public class AddingMachine {
 	
 //Private variables
   private int total;
-  private string concat;
+  private String concat;
   /*
    * public method , initializes the private variable 
    */
