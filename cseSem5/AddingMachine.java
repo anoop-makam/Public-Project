@@ -36,7 +36,7 @@ public class AddingMachine {
    * @param value to be subtracted
    */
   public void subtract (int value) {
-	  
+	  total -= value;
   }
   /*
    * @return concatination of String
